@@ -1,0 +1,4 @@
+# FactoryMax Whitelist Entries
+# Format: [Timestamp] Wallet: [address] | Email: [email] | Telegram: [username] | NFTs: [count]
+
+[2025-10-20 05:23:55.539 UTC] Wallet: 0x97fdDFA4647f84d49F7CF0d17cdBE0a894E7372D | Email: widanurramadani156123@gmail.com | Telegram: @wedhanr | NFTs: 2
