@@ -1,5 +1,0 @@
-# FactoryMax Whitelist Entries
-# Format: [Timestamp] Wallet: [address] | Email: [email] | Telegram: [username] | NFTs: [count]
-
-[2025-10-20 04:18:15.790 UTC] Wallet: 0xB510BF66bcba72643657bd8f2E1Ae7eA2C4E19d5 | Email: idripex46@gmail.com | Telegram: @geher | NFTs: 33
-[2025-10-20 04:19:39.177 UTC] Wallet: 0x010A565eD3F310586dd79cf4a4CE918E1Af73cdA | Email: oxaamcgn961@oxaam.com | Telegram: @hbkfw | NFTs: 43546
