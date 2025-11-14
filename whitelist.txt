@@ -15,3 +15,4 @@
 [2025-10-26 12:44:27.347 UTC] Wallet: 0x34C87A8A6d94b917BAda9db930869627DCD0DbD3 | Email: kpiyush804@icloud.com | Telegram: kpiyush804 | NFTs: 1
 [2025-10-28 14:13:00.588 UTC] Wallet: 0x7969DEF50bc9E5113B0aF3438954f555582ee100 | Email: wql3949@gmail.com | Telegram: Monad_QaQ | NFTs: 2
 [2025-11-02 22:48:43.076 UTC] Wallet: 0xe64f0a0828f9262d8eecc11a81bd7e36e246ec68 | Email: macharias2001@gmail.com | Telegram: @Sirmingo | NFTs: 2
+[2025-11-14 14:41:58.995 UTC] Wallet: 0x70996E771A11Ca423865Fb65284b5602F2628eac | Email: maykelharmain@gmail.com | Telegram: @maykelharmain | NFTs: 1
